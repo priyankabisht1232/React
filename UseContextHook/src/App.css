@@ -1,0 +1,11 @@
+#container {
+  padding: 2px;
+  height: 400px;
+  width: 400px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: beige;
+}
